@@ -72,3 +72,5 @@ Contributions to NearProtocol are welcome and appreciated! We value community in
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Ronaldo45rt/NearProtocol/blob/main/LICENSE) file for details.
+
+Auto PR badge trigger.
